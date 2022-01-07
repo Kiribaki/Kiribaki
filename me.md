@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kiribaki
 - 👀 I’m interested in programing, reading, cooking, playing basketball, farming and traveling.
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on front-end design
+- 🌱 I’m currently learning javascript and react.
+- 💞️ I’m looking to collaborate on front-end design.
 - 📫 How to reach me: pkiribaki@gmail.com
 
 <!---
